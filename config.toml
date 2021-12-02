@@ -1,0 +1,4 @@
+baseURL = 'https://ulikunitz.github.io/'
+languageCode = 'en-us'
+title = 'Kraut Blog'
+theme = 'ananke'
